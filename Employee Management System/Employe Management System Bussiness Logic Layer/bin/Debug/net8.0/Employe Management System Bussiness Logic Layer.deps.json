@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Employe Management System Bussiness Logic Layer/1.0.0": {
+        "runtime": {
+          "Employe Management System Bussiness Logic Layer.dll": {}
+        }
+      },
+      "Employee Management System Data Access Layer/1.0.0": {
+        "runtime": {
+          "Employee Management System Data Access Layer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employe Management System Bussiness Logic Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employee Management System Data Access Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

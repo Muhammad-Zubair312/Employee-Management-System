@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employee Management System Data Access Layer\bin\Debug\net8.0\Employee Management System Data Access Layer.deps.json
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employee Management System Data Access Layer\bin\Debug\net8.0\Employee Management System Data Access Layer.dll
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employee Management System Data Access Layer\bin\Debug\net8.0\Employee Management System Data Access Layer.pdb
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employee Management System Data Access Layer\obj\Debug\net8.0\Employee Management System Data Access Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employee Management System Data Access Layer\obj\Debug\net8.0\Employee Management System Data Access Layer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employee Management System Data Access Layer\obj\Debug\net8.0\Employee Management System Data Access Layer.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employee Management System Data Access Layer\obj\Debug\net8.0\Employee Management System Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employee Management System Data Access Layer\obj\Debug\net8.0\Employee Management System Data Access Layer.dll
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employee Management System Data Access Layer\obj\Debug\net8.0\refint\Employee Management System Data Access Layer.dll
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employee Management System Data Access Layer\obj\Debug\net8.0\Employee Management System Data Access Layer.pdb
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employee Management System Data Access Layer\obj\Debug\net8.0\ref\Employee Management System Data Access Layer.dll

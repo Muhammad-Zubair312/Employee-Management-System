@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employe Management System Bussiness Logic Layer\bin\Debug\net8.0\Employe Management System Bussiness Logic Layer.deps.json
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employe Management System Bussiness Logic Layer\bin\Debug\net8.0\Employe Management System Bussiness Logic Layer.dll
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employe Management System Bussiness Logic Layer\bin\Debug\net8.0\Employe Management System Bussiness Logic Layer.pdb
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employe Management System Bussiness Logic Layer\bin\Debug\net8.0\Employee Management System Data Access Layer.dll
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employe Management System Bussiness Logic Layer\bin\Debug\net8.0\Employee Management System Data Access Layer.pdb
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employe Management System Bussiness Logic Layer\obj\Debug\net8.0\Employe Management System Bussiness Logic Layer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employe Management System Bussiness Logic Layer\obj\Debug\net8.0\Employe Management System Bussiness Logic Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employe Management System Bussiness Logic Layer\obj\Debug\net8.0\Employe Management System Bussiness Logic Layer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employe Management System Bussiness Logic Layer\obj\Debug\net8.0\Employe Management System Bussiness Logic Layer.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employe Management System Bussiness Logic Layer\obj\Debug\net8.0\Employe Management System Bussiness Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employe Management System Bussiness Logic Layer\obj\Debug\net8.0\Employe .99A070A7.Up2Date
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employe Management System Bussiness Logic Layer\obj\Debug\net8.0\Employe Management System Bussiness Logic Layer.dll
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employe Management System Bussiness Logic Layer\obj\Debug\net8.0\refint\Employe Management System Bussiness Logic Layer.dll
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employe Management System Bussiness Logic Layer\obj\Debug\net8.0\Employe Management System Bussiness Logic Layer.pdb
+C:\Users\Lenovo\Downloads\C# code\Employee Management System\Employe Management System Bussiness Logic Layer\obj\Debug\net8.0\ref\Employe Management System Bussiness Logic Layer.dll

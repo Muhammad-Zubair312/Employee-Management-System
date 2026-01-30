@@ -1,0 +1,3 @@
+HR,333,We schedule all the meeting,conduct interview as a human resource
+SE,333,we are deal with software development related things
+SQA,567,Software Quality Assurance
